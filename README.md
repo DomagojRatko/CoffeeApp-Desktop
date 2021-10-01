@@ -9,5 +9,5 @@ Java application CoffeeApp adds .GIF to desktop
 
 @version 1.0
 
-@since 08.22.2021
+@since 09.03.2021
 
