@@ -6,6 +6,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 public class Main {
     public static void main(String[] args) throws MalformedURLException {
+            // Add gif you want to show on desktop
             URL url = new URL("https://i.pinimg.com/originals/48/70/fc/4870fcf2f864097100be062ee53c9911.gif");
             Icon icon = new ImageIcon(url);
             JLabel label = new JLabel(icon);
