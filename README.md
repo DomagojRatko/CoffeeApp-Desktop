@@ -6,7 +6,7 @@ Java application CoffeeApp adds .GIF to desktop
 * Example transparent background and custom JFrame.
 * Application is allowed to use for educational purposes. All credits to me.
 * Your allowed to modify code and make application better for purpose of education only.
-
+*
 * @author Domagoj Ratko
 * @discord Domo Ratko#0750
 * @email domagoj.ratko@gmail.com
