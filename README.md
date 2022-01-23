@@ -11,6 +11,6 @@ Java application CoffeeApp adds .GIF to desktop
 * @discord Domo Ratko#0750
 * @email domagoj.ratko@gmail.com
 * @version 1.0
-* @since 09.03.2021
+* @since 03.09.2021
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/62218857/150673695-da9bd062-82c5-4805-8723-3eddd297c635.gif)
